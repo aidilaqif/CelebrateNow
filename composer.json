@@ -1,0 +1,7 @@
+{
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.28",
+    "php": "^7.4",
+    "telegram-bot/api": "^3.7"
+  }
+}
